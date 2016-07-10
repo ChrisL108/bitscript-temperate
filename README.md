@@ -10,6 +10,9 @@ You would be able to personalize what services you would use. From one-to-one co
 ## Healthcare, More Accessible
 With our one-to-one personalized consultation service, you, as a patient would be able to report what you feel, send pictures and input your symptoms. To ensure that your doctor would be able to see your report immediately after they submit it, our application is equipped with push notifications. Then, your doctor would be able to send back their suggestions, analysis of your sickness and send you a digitized receipt of what medication you need.
 
+## Cloning, Forking or Installing Temperate on Your Server
+Our application can run on your website. Just upload all the files to your cPanel and modify the MySQL files that will match your database. You are free to clone or download this application for your use. Please just credit us, or leave the footer as is.
+
 ## HealthHacks PH 2016
 This application was submitted by Bitscript Technologies as an entry to HealthHacks PH, which won first place. HealthHacks PH is a hackathon that aims to solve healthcare problems in the Philippines. The team who participated in this hackathon is composed of 3 high school students. 
 
