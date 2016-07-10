@@ -1,5 +1,5 @@
 # Temperate by Bitscript Technologies
-Temperate is a healthcare application that aims to make healthcare more accessible to everyone, everywhere by the use of digitized data, online one-to-one consultation and electronic medical records through the use of barcodes. (https://zakattax.me/temperate)
+Temperate is a healthcare application that aims to make healthcare more accessible to everyone, everywhere by the use of digitized data, online one-to-one consultation and electronic medical records through the use of barcodes. (http://zakattax.me/temperate)
 
 ## Digitized Data
 You and your doctor will be able to deal away with handwritten paper records. Instead, digitized user IDs will store medical data for you. All the doctor has to do is scan a barcode, and all your medical history and recent medications will come out.
